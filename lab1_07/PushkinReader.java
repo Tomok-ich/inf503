@@ -14,7 +14,7 @@ public class PushkinReader {
         while(sc.hasNext()) {
             String line = sc.nextLine();
             if(pattern1.matcher(line).find()) {
-                System.out.printf("%s - %s\n", line, counter);
+                System.out.println(line + " - " + counter);
                 currentMatches += 1;
             }
             if(currentMatches == breaker) {

@@ -2,7 +2,7 @@ import java.util.regex.Pattern;
 
 public class Task1{
 	public static void main(String[] args){
-		String password1 = "^[[a-zA-Z]+\\d+[\\^\\$\\%\\@\\#\\&\\*\\!\\?]]+";
+		String password1 = "^[a-zA-Z]+\\d+[\\^\\$\\%\\@\\#\\&\\*\\!\\?]+";
 		String password2 = "^(.){8,}";
 		String password3 = "^.*[A-Z]+.*";
 		String password4 = "^.*[a-z]+.*";

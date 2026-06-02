@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data_base" />
+        <module name="kr2" />
+        <module name="kr3" />
+        <module name="lab2_8" />
+        <module name="lab2_9_reflection" />
+        <module name="lab2_7" />
+        <module name="lab2_6" />
+        <module name="lab2_5" />
+        <module name="lab2_4" />
+        <module name="lab2_1" />
+        <module name="lab2_13" />
+        <module name="lab2_10" />
+        <module name="lab2_11" />
+        <module name="lab2_14_sinhronizable" />
+        <module name="lab2_12" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alarm" target="24" />
+      <module name="KR" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

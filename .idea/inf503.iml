@@ -17,6 +17,10 @@
       <sourceFolder url="file://$MODULE_DIR$/lab1_11/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lab1_12/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lab1_13/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab2_3_transport" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab2_3graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab2_9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab2_2_map" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

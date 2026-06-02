@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/alarm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alarm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kr2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kr2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kr3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kr3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_10/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_12/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_13/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_13/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_14_sinhronizable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_14_sinhronizable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_9_reflection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab2_9_reflection/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

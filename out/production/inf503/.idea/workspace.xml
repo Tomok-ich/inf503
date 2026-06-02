@@ -1,47 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e44942-e3af-40c5-a42e-8e586fd5a5b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab1_09/ozon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1_11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1_11/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1_11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1_11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1_11/pom.xml" afterDir="false" />
+    <list default="true" id="121a1138-dfb9-42be-a00c-e06f2d1381f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../animals" beforeDir="false" afterPath="$PROJECT_DIR$/../animals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dz/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dz/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itis-team" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_04/Sortirivka.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_04/Sortirivka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_04/Testik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_04/Testik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/PushkinReader8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/PushkinReader8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_07/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_07/pushkin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../pushkin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_08/MainTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_08/MainTriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_09/homework/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/src/main/java/ozon/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/src/main/java/ozon/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/src/main/java/ozon/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/src/main/java/ozon/OzonMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/src/main/java/ozon/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/src/main/java/ozon/Seller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/target/classes/ozon/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/target/classes/ozon/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/target/classes/ozon/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/target/classes/ozon/OzonMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/target/classes/ozon/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_09/ozon/target/classes/ozon/Seller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/MainSimpleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/linkedlist/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/linkedlist/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/linkedlist/NoNoNo13Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/linkedlist/NoooException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12/linkedlist/TestLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12_sam/LinkedList503.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12_sam/LinkedList503.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12_sam/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_12/src/main/java/lab1_12_sam/Linkedlist1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1_13" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/inf503/ozon/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/inf503/pushkin.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="36mnd00PrqdEPURaEvSNGm2Gng2" />
+  <component name="ProjectId" id="3AaSsRJmfgyn4kIGlX9sZd9sqI9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Informatika/inf503/lab1_05"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60e44942-e3af-40c5-a42e-8e586fd5a5b5" name="Changes" comment="" />
-      <created>1765620697251</created>
+      <changelist id="121a1138-dfb9-42be-a00c-e06f2d1381f2" name="Changes" comment="" />
+      <created>1772829397454</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1765620697251</updated>
+      <updated>1772829397454</updated>
     </task>
     <servers />
   </component>

@@ -8,7 +8,7 @@ public class Sortirivka{
 			for (int i = 0; i < a.length - 1; ++i){
 				int j = 0;
 				while (a[i].charAt(j) == a[i + 1].charAt(j)){
-					if (j == a.length - 1){
+					if (j == a[i].length() - 1){
 						break;
 					}
 					++j;

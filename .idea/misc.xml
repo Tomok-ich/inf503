@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lab2_1/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_4/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_5/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_6/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_7/pom.xml" />
+        <option value="$PROJECT_DIR$/KR/pom.xml" />
+        <option value="$PROJECT_DIR$/kr2/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_8/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_10/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_11/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_12/pom.xml" />
+        <option value="$PROJECT_DIR$/kr3/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_13/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_14_sinhronizable/pom.xml" />
+        <option value="$PROJECT_DIR$/data_base/pom.xml" />
+        <option value="$PROJECT_DIR$/alarm/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2_9_reflection/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/KR/pom.xml" />
+        <option value="$PROJECT_DIR$/alarm/pom.xml" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="24" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

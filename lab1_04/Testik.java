@@ -1,4 +1,4 @@
-public class Testik{
+/*public class Testik{
 	public static void main(String[] args){
 		int a = 10;
 		int b = 20;
@@ -10,3 +10,4 @@ public class Testik{
 		System.out.println(b);
 	}
 }
+ */

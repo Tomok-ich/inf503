@@ -1,4 +1,4 @@
-public class MainTriangleTest{
+/*public class MainTriangleTest{
 	public static void main(String[] args){
 		Triangle triangle = new Triangle();
 
@@ -17,6 +17,7 @@ public class MainTriangleTest{
 
 
 
-		System.out.println(triangle.isEquariteral());
+		System.out.println(triangle.isEquals());
 	}
 }
+ */
